@@ -74,7 +74,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="p-4 border rounded shadow-sm">
                         <p class="font-bold">30 Minutes Subscription</p>
-                        <p class="text-sm text-gray-600">Cost: 149 Points</p>
+                        <p class="text-sm text-gray-600">Cost: Free </p>
                         <button onclick="buySubscription('30min', 149)" class="mt-2 bg-blue-600 text-white px-3 py-1 rounded text-sm">Buy Now</button>
                     </div>
                     <div class="p-4 border rounded shadow-sm">
